@@ -1,1 +1,1 @@
-# This is tthe main repository
+# This is the main repository
